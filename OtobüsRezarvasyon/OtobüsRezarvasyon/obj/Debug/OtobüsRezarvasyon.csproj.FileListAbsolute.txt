@@ -1,0 +1,12 @@
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\bin\Debug\OtobüsRezarvasyon.exe.config
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\bin\Debug\OtobüsRezarvasyon.exe
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\bin\Debug\OtobüsRezarvasyon.pdb
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.csproj.AssemblyReference.cache
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.Form1.resources
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.Properties.Resources.resources
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.csproj.GenerateResource.cache
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.csproj.CoreCompileInputs.cache
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.exe
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.pdb
+C:\Users\anile\source\repos\OtobüsRezarvasyon\OtobüsRezarvasyon\obj\Debug\OtobüsRezarvasyon.GirişKısmı.resources
